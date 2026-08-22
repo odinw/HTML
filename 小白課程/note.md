@@ -38,3 +38,13 @@ https://youtu.be/14Zc6hA5OP8?si=M837AzyVP--9fKPH
   - width 寬度
   - height 高度
   - 若只給 width or height 則會自動等比例縮放
+
+
+  # 影片
+  - video
+    - src 來源
+    - controls 啟用基本控制
+    - width 寬度
+    - height 高度
+  - 嵌入網路影片
+    - 以 Youtube 為例，分享 button 會產出 iframe 的代碼，直接使用即可
