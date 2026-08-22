@@ -1,7 +1,17 @@
 
+# 基本框架
+## 主區塊
+- DOCTYPE 告知瀏覽器檔案類型
+- html 整張網頁
+- head 設定編碼、要載入的檔案等
+- body 網頁內容
+
+## 其他標籤
+- title 網頁標題
+- meta 設定編碼、後設資料
 
 
-# Lesson 2.
+# 註解、基本標籤
 https://youtu.be/LD1PhxcYKRI?si=PIWSc2I4laW9K5t-
 - 註解
 - h 標題
@@ -13,6 +23,7 @@ https://youtu.be/LD1PhxcYKRI?si=PIWSc2I4laW9K5t-
 - br/ 換行
 - hr/ 水平線
 - 省略結尾標籤 </>，如：br/ hr/。meta 標籤也能改寫為 meta/
+
 
 # 連結、圖片
 https://youtu.be/14Zc6hA5OP8?si=M837AzyVP--9fKPH
