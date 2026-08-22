@@ -41,6 +41,7 @@ https://youtu.be/14Zc6hA5OP8?si=M837AzyVP--9fKPH
 
 
   # 影片
+  https://youtu.be/HQaDd_nEb0I
   - video
     - src 來源
     - controls 啟用基本控制
@@ -48,3 +49,22 @@ https://youtu.be/14Zc6hA5OP8?si=M837AzyVP--9fKPH
     - height 高度
   - 嵌入網路影片
     - 以 Youtube 為例，分享 button 會產出 iframe 的代碼，直接使用即可
+
+
+  # 列表、表格
+https://youtu.be/RPrmVYWDo5o
+- ui 無序列表
+- ol 有序列表
+  - type
+    - 可不設定
+    - A 大寫字母列表
+    - a 小寫字母列表
+    - I 大寫羅馬數字列表
+    - i 小寫羅馬數字列表
+- li 列表的內容
+
+- table 表格
+  - width 寬
+- tr 表格的列
+- td 表格的欄
+
