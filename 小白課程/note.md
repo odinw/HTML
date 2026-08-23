@@ -70,6 +70,7 @@ https://youtu.be/RPrmVYWDo5o
 
 
 # 容器 div、span
+https://www.youtube.com/watch?v=xhmvQETXZyI&list=PLRjgE3pAnTILsGKX5zF6jP8TLxPA0v6rL&index=7
 - div 所套的 css, 將做於用 底下的其他標籤, ex: ol , table
 - span 比照 div 也是區塊, 差別在於佔用空間 
 - 佔用空間寬度
