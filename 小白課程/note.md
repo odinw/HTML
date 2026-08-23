@@ -91,3 +91,8 @@ https://www.youtube.com/watch?v=Ma4EPVbXorc
   - viewport
     - width=device-width 根據畫面寬度來調整
     - initial-scale=1.0 進入網頁時的縮放比
+
+# 查看網頁html架構
+- F12 開啟瀏覽器開發工具
+  - Element 查看 HTML 原始碼的組成
+- 對畫面元件 右鍵 > 檢查, 自動跳到對應的 HTML 標籤
