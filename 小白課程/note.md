@@ -77,3 +77,11 @@ https://www.youtube.com/watch?v=xhmvQETXZyI&list=PLRjgE3pAnTILsGKX5zF6jP8TLxPA0v
   - 佔一整行的區塊：如 div, p
   - 用多少佔多少：如 span, link 只會占所用到的空間, 所以當多個在一起時 會並排
 
+# 輸入標籤 input、textarea
+https://www.youtube.com/watch?v=Ma4EPVbXorc
+- input 輸入
+  - type 輸入的類型
+    - text 一般文字
+    - password 密碼類型, 將遮蔽輸入的內容
+  - placeholder 提醒訊息
+- textarea 文字多行輸入
