@@ -85,3 +85,9 @@ https://www.youtube.com/watch?v=Ma4EPVbXorc
     - password 密碼類型, 將遮蔽輸入的內容
   - placeholder 提醒訊息
 - textarea 文字多行輸入
+
+# meta 標籤
+- meta 讓搜尋引擎了解網頁目的
+  - viewport
+    - width=device-width 根據畫面寬度來調整
+    - initial-scale=1.0 進入網頁時的縮放比
