@@ -53,7 +53,7 @@ https://youtu.be/HQaDd_nEb0I
 
   # 列表、表格
 https://youtu.be/RPrmVYWDo5o
-- ui 無序列表
+- ul 無序列表
 - ol 有序列表
   - type
     - 可不設定
